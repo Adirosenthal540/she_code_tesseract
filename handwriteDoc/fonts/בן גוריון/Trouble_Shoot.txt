@@ -1,0 +1,26 @@
+Dear user,
+
+This document describes a few notes for your attention when using MyFont software:
+
+1. When pasting the text you want to convert, into the input box, make sure you are set to the right writing direction. 
+Example: If you want to convert text in the English language, make sure you are set to left-to-right typing direction and not right-to-left. Pasting the text when you are set to the wrong direction may cause problems in the conversion.
+
+2. If you see unknown characters in the output box after conversion, make sure you installed the font (TTF file) properly in the System Font directory.
+
+3. If some of the characters of the converted text string aren't shown properly in Microsoft Word, send us email containig a short description of this problem and include your Windows and Microsoft Word versions. This can happen because of minor differences between Micsoroft software versions.
+
+4. If you get an Error message says you don't have COMCTL32.OCX installed, all you have to do is copy COMCTL32.OCX file into c:\windows\system32 directory.
+
+Please report us of any bugs or problems you encounter and we will do our best to fix them A.S.A.P!
+
+email: bug@myfont.co.il for any other
+
+
+
+Thank you for using MyFont products!
+Lior Siew
+Technical Support Manager
+
+MyFont
+Now its personal!
+ 

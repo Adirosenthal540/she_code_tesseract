@@ -1,0 +1,21 @@
+Thank you for downloading a Celeb handwriting font.
+
+Steps for using the demo font:
+
+1. Copy the TTF file into the "fonts" directory inside the control panel.
+2. Copy COMCTL32.OCX file into "c:\windows\system32".
+3. Start the "MyFont" software.
+4. Insert the text you want to convert and just click: "Convert".
+
+Easy and simple...
+
+We hope you will enjoy our demo...
+
+Please feel free to ask us any other questions about our products and services.
+
+Thank you,
+Omer Agiv
+
+Marketing Manager
+www.myfont.co.il
+It's time to make it personal!
